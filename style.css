@@ -18,6 +18,7 @@ h2 {
     line-height: 10px;
     margin-top: 0px;
     margin-bottom: -30px;
+    width: 100%;
 }
 
 .container {
@@ -42,7 +43,11 @@ h2 {
     border: solid 2px #2E3138;
     border-radius: 4px;
     margin: 10px;
-    margin-bottom: -30px;
+    margin-bottom: -50px;
+}
+
+#you {
+    margin-bottom: -100px;
 }
 
 .userChoices:hover {
@@ -95,7 +100,7 @@ h2 {
     width: 100%;
     height: 70px;
     font-size: 30px;
-    margin-top: -75px;
+    margin-top: -50px;
     font-family: 'Shadows Into Light', cursive;
 }
 
